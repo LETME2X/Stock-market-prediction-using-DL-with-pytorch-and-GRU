@@ -59,8 +59,3 @@ Since GRU does not have an output gate, there is no control over the memory cont
 ## Results
 Detailed results and visualizations will be added here.
 
-## Blog
-Check out my [Medium article](https://medium.com/), where I have explained the project in detail.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
